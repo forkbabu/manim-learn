@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/73796116_1450867289_2188680527.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_2959719147_3257916154.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_217723270_1505483240.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_2959719147_2672009319.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_3648303544_559792874.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_2959719147_3918946433.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_474791753_1670042343.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_2959719147_795712810.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_1390803800_2992886893.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/scene4/1080p60/partial_movie_files/OpeningManim/3649769250_2959719147_2133355947.mp4'

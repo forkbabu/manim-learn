@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/ucalyptus/manim-learn/media/videos/MFB/480p15/partial_movie_files/MovingFrameBox/3163782288_2673758007_988074618.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/MFB/480p15/partial_movie_files/MovingFrameBox/607903841_1109377314_1446147832.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/MFB/480p15/partial_movie_files/MovingFrameBox/607903841_3466882479_1036966164.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/MFB/480p15/partial_movie_files/MovingFrameBox/607903841_2711064822_1618696760.mp4'
+file 'file:/home/ucalyptus/manim-learn/media/videos/MFB/480p15/partial_movie_files/MovingFrameBox/607903841_3466882479_1142828662.mp4'
